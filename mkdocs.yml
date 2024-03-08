@@ -1,0 +1,71 @@
+site_name: IA generativa
+site_url:  https://github.com/sever8a/IAgenerativa.git
+use_directory_urls: false
+
+nav:
+  - "1. Introducción": "index.md"
+  # - "2. ": "p.md"
+  # - "3. ": "p.md"
+  # - "4. ":
+  #   - "4.1. ": "p.md"
+  #   - "4.2. ": "p.md"
+  #   - "4.3. ": "p.md"
+  #   - "4.4. ": "p.md"
+  #   - "4.5. ": "p.md"
+  # - "5. ": "p.md"
+  # - "6. ": "p.md"
+  # - "7. ": "p.md"
+
+theme:
+  language: es
+  favicon: imagenes/favicon.png
+  name: "material"
+  palette:
+    primary: deep blue
+    accent: deep orange
+    
+  font:
+    text: Roboto
+    code: Roboto Mono
+  logo: "imagenes/logofp.png"
+  features:
+    - header.autohide
+    - navigation.expand
+
+extra:
+  search:
+    language: "es"
+  social:
+    - icon: fontawesome/solid/envelope-square
+      link: mailto:<m.iborra@edu.gva.es>
+  analytics:
+    provider: google
+    property: 
+
+plugins:
+  - search
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.critic
+  - admonition
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed
+  - pymdownx.details
+  - pymdownx.highlight:
+      linenums: true
+      linenums_style: pymdownx-inline
+  - pymdownx.superfences
+  - footnotes
+  - meta
+  - sane_lists
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.critic
+
+copyright: 2024-2025 Manuela Iborra - Licencia CC BY-NC-SA
