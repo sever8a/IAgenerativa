@@ -3,7 +3,7 @@ site_url:  https://github.com/sever8a/IAgenerativa.git
 use_directory_urls: false
 
 nav:
-  - "1. Introducción": "index.md"
+  - "1. Introducción": "docs/index.md"
   # - "2. ": "p.md"
   # - "3. ": "p.md"
   # - "4. ":
