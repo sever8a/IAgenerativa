@@ -17,7 +17,7 @@ date: 2024-03-10
 
 ## **Introducción**
 
-
+La inteligencia artificial generativa, es un tipo de software diseñado para crear contenido nuevo, como texto, imágenes o música, basándose en patrones aprendidos de grandes cantidades de datos. En otras palabras, puede ayudar a generar material creativo de manera automática utilizando lo que ha aprendido de ejemplos existentes. Por ejemplo, puede escribir historias, dibujar imágenes o componer música basándose en lo que ha visto y aprendido previamente. Sin embargo, es importante recordar que no tiene conciencia ni emociones como los seres humanos, y su función es ayudar y asistir en tareas específicas.
 
 
 
