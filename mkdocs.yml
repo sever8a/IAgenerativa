@@ -6,17 +6,18 @@ use_directory_urls: false
 
 nav:
   - "1. Introducción": "index.md"
-  # - "2. ": "p.md"
-  # - "3. ": "p.md"
+  - "2. Conversacionales": "conversa.md"  
+  - "3. Resúmenes y presentaciones": "resum.md"
+  # - "4. Presentaciones": "presenta.md"
   # - "4. ":
   #   - "4.1. ": "p.md"
   #   - "4.2. ": "p.md"
   #   - "4.3. ": "p.md"
   #   - "4.4. ": "p.md"
   #   - "4.5. ": "p.md"
-  # - "5. ": "p.md"
-  # - "6. ": "p.md"
-  # - "7. ": "p.md"
+  - "4. Imágenes y vídeos ": "text2image.md"
+  - "5. Autoaprendizaje y plagio": "auto.md"
+  # - "7. Plagio": "plagio.md"
 
 theme:
   language: es
@@ -70,4 +71,4 @@ markdown_extensions:
   - pymdownx.tilde
   - pymdownx.critic
 
-copyright: 2024-2025 Manuela Iborra - Licencia CC BY-NC-SA
+copyright: 2024-2025 Manuela Iborra & Jose Robledano - Licencia CC BY-NC-SA
