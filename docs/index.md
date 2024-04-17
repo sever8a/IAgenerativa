@@ -8,6 +8,22 @@ date: 2024-03-10
 ---
 # **IA GENERATIVA**
 
+## **¿Qué es la IA?**
+
+La Inteligencia Artificial es uno de los mayores avances tecnológicos que hemos tenido en los últimos tiempos, de ahí la curiosidad por conocer herramientas de IA que nos ayuden en nuestro trabajo diario.
+
+Podemos definir la IA como la capacidad que tiene un dispositivo para realizar tareas que generalmente requieren inteligencia humana, es decir, la capacidad de una máquina para pensar, aprender, razonar y tomar decisiones como lo haría una persona.
+
+
+El matemático británico Alan Turing (1912-1954) es considerado uno de los padres de las Ciencias de la Computación. Entre muchas de sus contribuciones formuló la prueba que lleva su nombre **"El test de Turing"**. Según este investigador, un ordenador que fuese capaz de pasar el test de Turing se podría considerar inteligente.
+
+El test de Turing consiste en hacer que una persona hable a través de una pantalla y un teclado simultáneamente con un grupo de individuos entre los que se esconde un ordenador. A la vista de las respuestas que recibe de cada uno de ellos, esta persona debería ser capaz de saber quién es el ordenador y quiénes son los seres humanos. Si el ordenador no es descubierto, se podría considerar que ha pasado el test de Turing. Dado que la conversación se lleva a cabo en forma de texto, a través de un teclado y un monitor, no es necesario que la máquina sea capaz de transformar el texto en voz, aunque estoy hoy en día ya es posible. Esta prueba no evalúa conocimientos, dado que un ser humano no lo sabe todo, sino que lo que mide es la capacidad de una máquina de conversar como lo haría un ser humano.
+
+Ya han pasado más de 70 años desde que se enunciara el test de Turing y hay máquinas que han conseguido superarla.
+
+
+## **IA Generativa**
+
 !!! info "Autodefinición"
     Como inteligencia artificial generativa, mi función principal es generar texto, imágenes, música y otros tipos de contenido basado en el aprendizaje de grandes cantidades de datos. Utilizo algoritmos de aprendizaje automático para comprender patrones y estructuras en esos datos, lo que me permite crear contenido nuevo y original que a menudo es difícil de distinguir de lo creado por humanos.
 
@@ -19,6 +35,7 @@ date: 2024-03-10
 
 La inteligencia artificial generativa, es un tipo de software diseñado para crear contenido nuevo, como texto, imágenes o música, basándose en patrones aprendidos de grandes cantidades de datos. En otras palabras, puede ayudar a generar material creativo de manera automática utilizando lo que ha aprendido de ejemplos existentes. Por ejemplo, puede escribir historias, dibujar imágenes o componer música basándose en lo que ha visto y aprendido previamente. Sin embargo, es importante recordar que no tiene conciencia ni emociones como los seres humanos, y su función es ayudar y asistir en tareas específicas.
 
+<center>![](imagenes/logo2.png){width=300}</center>
 
 La inteligencia artificial generativa (IA generativa) se refiere a un conjunto de técnicas y algoritmos que permiten a las máquinas generar contenido original y creativo, como imágenes, texto, música y otros tipos de datos. A diferencia de los enfoques tradicionales de inteligencia artificial que se centran en tareas específicas y predictivas, la IA generativa se enfoca en la capacidad de crear nuevas instancias de datos que se asemejan a los ejemplos con los que ha sido entrenada.
 
@@ -69,6 +86,16 @@ Las Redes Generativas Adversariales (GANs) son un tipo de arquitectura de red ne
 !!!info "Un aliado creativo"
     Las Redes Generativas Adversariales son una poderosa herramienta en el campo de la inteligencia artificial generativa, capaces de generar contenido visual y textual altamente realista y convincente. Su arquitectura básica y sus principios de funcionamiento las hacen extremadamente versátiles y adecuadas para una variedad de aplicaciones en la generación de contenido creativo.
 
+## **Tipos de IA**
+
+
+**IA débil:** son máquinas que solo pueden hacer tareas simples y específicas que se les ha programado. Por ejemplo, el reconocimiento de imágenes, Siri y Alexa, etc. 
+
+**IA fuerte o inteligencia artificial general (AGI)** es el objetivo de crear máquinas que puedan igualar la inteligencia humana en cualquier tarea, pero aún no existe. En el contexto educativo, una IA fuerte podría adaptarse a diferentes estilos de aprendizaje, materias y niveles de habilidad, ofreciendo una enseñanza personalizada.
+
+Un niño de tres años puede aprender cosas de una manera que los ordenadores de momento no pueden hacerlo. Un niño en realidad domina la física intuitivamente. Por ejemplo, sabe perfectamente que cuando tira una bola al aire, esta caerá, o cuando se derrama un líquido espera el desastre resultante. Sus padres no necesitan enseñarle las leyes de Newton o hablarles de las ecuaciones diferenciales que definen la trayectoria de los objetos. El niño descubre todas estas cosas sin supervisión.
+
+
 
 ## **IA Generativa en educación**
 
@@ -99,6 +126,30 @@ Responsabilidad y Rendición de Cuentas: La responsabilidad ética de los desarr
 Impacto Social y Cultural: El impacto en la educación, incluidas las implicaciones para la igualdad de oportunidades, la diversidad cultural y la autonomía del individuo. La tecnología puede influir en la percepción del conocimiento, el aprendizaje y la identidad en el entorno educativo.
 
 Este tema nos invita a considerar no solo el potencial transformador de la IA generativa en la educación, sino también las responsabilidades éticas que conlleva su uso. Al abordar estas cuestiones de manera proactiva, podemos trabajar hacia un futuro en el que la IA generativa se utilice de manera ética y responsable para promover un aprendizaje inclusivo, equitativo y significativo para todos.
+
+## **Herramientas**
+
+### **ChatGPT**
+
+**ChatGPT** es una aplicación conversacional basada en IA, desarrollada por la empresa OpenAI en 2022. Es capaz de generar respuestas humanas coherentes y contextuales a partir de un texto de entrada. Ha sido entrenado en una amplia gama de texto de internet y es capaz de participar en conversaciones en lenguaje natural, responder preguntas y completar solicitudes.
+
+Existen actualmente dos versiones, una que es gratuita y otra de pago que tiene más prestaciones.
+
+<center>![](imagenes/chatgpt.PNG){width=300}</center>
+
+
+[ChatGPT](https://chat.openai.com/)
+
+### **Copilot**
+
+
+### **Claude**
+
+
+### **Gemini**
+
+
+### **ChatGPT**
 
 ## **Recursos**
 
