@@ -138,10 +138,20 @@ Existen actualmente dos versiones, una que es gratuita y otra de pago que tiene 
 <center>![](imagenes/chatgpt.PNG){width=300}</center>
 
 
-[ChatGPT](https://chat.openai.com/)
+[ChatGPT](https://chat.openai.com/){:target="_blank"}
 
 ### **Copilot**
+Promovido por Microsoft, se anuncia como *"su complemento de IA para todos los días"*. Está integrado con el buscador [bing.com](https://www.bing.com){:target="_blank"}. Si estamos validados con un usuario de Microsoft, muestra una síntesis explicativa autogenerada a partir de la consulta realizada, al tiempo que aparecen los enlaces a sitios de Internet de la manera habitual.
 
+**Copilot** dispone de otras herramientas derivadas que pueden utilizarse para generar imágenes, planes vacacionales, entrenador y asistente de cocina.
+
+<center>![](imagenes/copilot_herramientas.png)</center>
+
+[Copilot](https://www.bing.com/chat?q=Microsoft+Copilot&FORM=hpcodx){:target="_blank"}
+
+!!! info "Base de copilot"
+
+    Copilot está basado en chatGPT y utiliza herramientas desarrolladas por la empresa **OpenAI**, donde Microsoft mantiene una participación importante.
 
 ### **Claude**
 
