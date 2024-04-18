@@ -151,20 +151,29 @@ Promovido por Microsoft, se anuncia como *"su complemento de IA para todos los d
 
     Copilot está basado en chatGPT y utiliza herramientas desarrolladas por la empresa **OpenAI**, donde Microsoft mantiene una participación importante.
 
+
 ### **Claude**
 
 Es la nueva IA de Anthropic. Es una herramienta libre y de uso gratuito aunque también dispone de la versión de pago. La compañía destaca las mejoras significativas en lo referente a las capacidades de comprensión y resumen cuando se trabaja con documentos largos y complejos que requieren de un alto grado de precisión.
+
+[Enlace a Claude](https://claude.ai/login?returnTo=%2F){:target="_blank"}
+
 
 ### **Gemini**
 
 Imagina a Gemini como un superhéroe muy inteligente, creado por Google. Es como un libro mágico que sabe de todo, y puede entender y responder a lo que dices, escribes o dibujas.
 
+
 **Superpoderes de comprensión:** Gemini puede entender diferentes idiomas, como si hablara muchos idiomas diferentes.
+
 **Superpoderes de creatividad:** Puede inventar historias, escribir poemas, crear canciones o incluso ayudarte con tus tareas escolares.
+
 **Superpoderes de conocimiento:** Sabe mucho sobre el mundo, como si fuera una enciclopedia gigante.
 
-<center>![](imagenes/generativa.jpg)</center>
 
+<center>![](imagenes/gemini.png)</center>
+
+[Enlace a Gemini](https://gemini.google.com/app){:target="_blank"}
 
 ## **Recursos**
 
