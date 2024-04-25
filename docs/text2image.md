@@ -17,9 +17,19 @@ Las imágenes digitales se están formadas por **pixels**. Un pixel es la combin
 Por tanto las imágenes son conjuntos de valor númericos. Representadas en forma de matrices multidimensionales con filas y columnas. Esta representación matemática de las imágenes facilita mucho su procesamiento en los modelos de Inteligencia Artificial.
 
 Se han desarrollado diferentes modelos, para generar imágenes a partir de diferentes elementos:
+
 - Instrucciones en texto.
 - Imágenes.
 - Audio.
+
+!!! info "Prueba la generación instantánea"
+
+    HuggingFace es una popular plataforma que almacena muchos modelos de inteligencia artificial con diferente propósito. 
+
+    Dispone de un espacio, llamado **spaces** donde es posible publicar demostraciones de los modelos.
+
+    Utiliza (https://huggingface.co/spaces/diffusers/unofficial-SDXL-Turbo-i2i-t2i)[el siguiente enlace]{:target=_blank} para probar la creacion de imágenes según vas escribiendo el texto.
+
 
 ## Imagenes para la docencia
 
@@ -36,6 +46,11 @@ Sin embargo, esto no es un handicap para la Inteligencia Artificial generativa, 
 Los vídeos no son más que secuencias de imágenes. Para una IA generativa que genera imágenes, no es ningún inconveniente generar una secuencia de imágenes relacionadas con la anterior, formando un vídeo.
 
 Cada imágen se basa en la anterior generada, aplicando cierta modificación, en base a las instrucciones de creación que se hayan establecido.
+
+
+## Referencias
+
+
 
 
 
