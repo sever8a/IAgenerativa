@@ -28,7 +28,7 @@ Se han desarrollado diferentes modelos, para generar imágenes a partir de difer
 
     Dispone de un espacio, llamado **spaces** donde es posible publicar demostraciones de los modelos.
 
-    Utiliza (https://huggingface.co/spaces/diffusers/unofficial-SDXL-Turbo-i2i-t2i)[el siguiente enlace]{:target=_blank} para probar la creacion de imágenes según vas escribiendo el texto.
+    Utiliza [el siguiente enlace](https://huggingface.co/spaces/diffusers/unofficial-SDXL-Turbo-i2i-t2i){:target=_blank} para probar la creacion de imágenes según vas escribiendo el texto.
 
 
 ## Imagenes para la docencia
