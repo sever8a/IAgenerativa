@@ -8,7 +8,7 @@ date: 2024-03-18
 ---
 # IA conversacional
 
-Esta tecnología ofrece una amplia gama de posibilidades para crear contenidos educativos innovadores y personalizados. Aquí te presento algunas formas en que se puede utilizar la IA generativa para este fin:
+Esta tecnología ofrece una amplia gama de posibilidades para crear contenidos educativos innovadores y personalizados. Aquí se presentan algunas formas en que se puede utilizar la IA generativa para este fin:
 
 ## **Generación de Problemas y Ejercicios**
 
@@ -35,18 +35,71 @@ Utilizando técnicas de IA generativa, es posible personalizar el material de es
 
 ## **Herramientas conversacionales**
 
-Existen muchas herramientas que utilizan la IA generativa. Las más conocidas son:
+Aunque existen muchas herramientas que utilizan la IA generativa. La mayoría son derivados de los tres modelos más potententes y conocidos:
 
 Condiciones de uso
 
-- ChatGPT: Es necesario estar registrado para su utilización. Hay una versión superior de pago por suscripción. La versión actual gratuita es ChatGPT 3.5. Una vez que iniciamos sesión, parece 
+### ChatGPT
+Es necesario estar registrado para poder utilizarlo. Dispone de una versión superior, de pago por suscripción. La versión actual gratuita es ChatGPT 3.5. 
+
+Al iniciar sesión se puede consultar y continuar conversaciones anteriores, ya que quedan almacenadas en el historial. Se pueden utilizar diferentes idiomas sin que se aprecien diferencias importantes en las respuestas obtenidas.
+
+Se pueden generar diferentes conversaciones al mismo tiempo y cada una sigue un hilo diferente. Si se alcanza el límite de conversaciones se genera un aviso para ir eliminando algunas de ellas.
+
+Después de generar cada respuesta, esta puede ser valorada, reproducida en audio, o copiada. Si se solicita que la regenere, además solicitará que se haga una comparación entre los resultados ofrecidos.
+
+Algunas limitaciones:
+
+- No es posible hacer referencias a sitios de internet.
+- No genera imágenes (es otra herramienta, Dall-e).
+- No se pueden adjuntar ficheros en los mensajes.
+- No interactua con dispositivos externos.
+- No ofrece conocimiento actualizado más allá de 2022.
 
 
-- Copilot:
+
+### Copilot
+Se trata de una IA generativa conversacional basada en ChatGPT. Cambia el entorno de uso y las prestaciones que ofrece se ajustan a otros parámetros.
+
+Tiene cierta integración con el buscador **bing.com**, de manera que si se utiliza este último, se pueden formular preguntas directas y conseguir amplias respuestas sintetizadas a partir de los resultados de la búsqueda web. También aparecen las referencias de Internet a los sitios relacionados.
+
+No es necesario estar registrado para utilizar **copilot** de manera que el texto de la búsqueda se puede trasladar directamente a la IAgenerativa. Ofrece un entorno conversacional, y acompaña las respuestas de imágenes ilustrativas y enlaces a páginas web que considera relevantes.
+
+Hay un límite de conversaciones en cada chat, si se alcanza este límite se puede iniciar uno nuevo o iniciar sesión, para no tener esta limitación.
+
+Las respuestas obtenidas también se pueden valorar, copiar y escuchar, además permite exportar directamente a un documento tipo *pdf*, *word* o *texto*.
+
+Otra característica es que permite establecer el estilo de cada conversación entre tres grados de creatividad.
+
+Se pueden utilizar referencias a sitios web, y también es posible adjuntar imágenes, aunque para crear imagenes en la respuesta es necesario iniciar sesión.
+
+Algunas limitaciones:
+
+- No se pueden cargar archivos.
+- No hay opción para cambiar entre los modelos: *creativo*, *equilibrado* y *preciso*.
+- No mantiene un historial de conversaciones anteriores.
+
 
 <center>![](imagenes/cop1.png)</center>
 
-- Gemini
+### Gemini
+IA generativa conversacional de Google, anteriormente se llamaba *Bard* ahora es *Gemini*. Es necesario disponer de una cuenta de Google personal o Workspace (empresarial no educativa), y ser mayor de 18 años si estás en el espacio europeo. La versión *Gemini Advance* actualmente está solo disponible en inglés.
+
+Las respuestas recibidas permiten realizar varias acciones, como son: valorar la respuesta, copiar, compartir creando un enlace un documento o un correo (en las herramientas de Google). Otra opción muy interesante es *modificar la respuesta* que permite definir si se quiere acortar, alargar o cambiar el tono a más informal o más profesional. 
+
+Otra opción es **comprobar respuesta**, que marca el texto de la respuesta en verde o rojo, en función de si ha encontrado referencias con el buscador similares a la respuesta.
+
+Algunas limitaciones:
+
+- No se pueden adjuntar archivos.
+- No se pueden generar imágenes.
+- No analiza imágenes.
+
+!!! alert "En constante aprendizaje"
+
+    En la propia información de la herramienta se insiste mucho en considerar la herramienta en una fase inicial, dentro de un proceso de aprendizaje continuo.
+
+    Los resultados pueden parecer inconexos y con excesivas referencias a contenido de sitios web, lo que puede ser considerado como una mezcla de la tecnología de búsqueda con la IA generativa.
 
 
 ## **El Prompt de la IA**
@@ -100,4 +153,8 @@ Una posible forma de generar un buen prompt puede ser la siguiente:
 - **Tema o tarea**: Descripción de la tarea específica o el tema que se quiere abordar. Puede ser una pregunta sobre un tema específico, una petición de ayuda con una tarea, una explicación de un concepto, etc.
 - **Contexto**: Información del contexto o los detalles adicionales que ayudan a definir la situación. Por ejemplo, detalles sobre un problema que están intentando resolver.
 - **Usuario final**: Esta es la persona o grupo de personas a las que se destina la respuesta. Podría ser el propio usuario, el alumnado de un nivel y asignatura en particular, una audiencia más general, etc. Este componente ayuda a definir el nivel de detalle, el tono y el lenguaje que deben utilizarse en la respuesta.
+
+!!!alert "Aviso sobre resultados"
+
+    Recuerda que todas las herramientas avisan en sus condiciones de uso que no son responsables del uso de las respuestas, siendo al usuario quién debe considerar la validez de los contenidos obtenidos.
 
