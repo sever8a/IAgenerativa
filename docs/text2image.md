@@ -12,17 +12,45 @@ La IA generativa permite crear elementos gráficos nuevos, que pueden ser utiliz
 
 ## Generando imágenes
 
-Las imágenes son conjuntos de valor númericos que representan el valor numérico de cada pixel. Son matrices con filas y columnas. Esta representación matemática de las imágenes facilita mucho su procesamiento en los modelos de Inteligencia Artificial.
+Las imágenes digitales se están formadas por **pixels**. Un pixel es la combinación de tres colores: rojo verde y azul (RGB). Se representa como un vector de valores numéricos.
+
+Por tanto las imágenes son conjuntos de valor númericos. Representadas en forma de matrices multidimensionales con filas y columnas. Esta representación matemática de las imágenes facilita mucho su procesamiento en los modelos de Inteligencia Artificial.
 
 Se han desarrollado diferentes modelos, para generar imágenes a partir de diferentes elementos:
+
 - Instrucciones en texto.
 - Imágenes.
+- Audio.
 
-## Generando vídeos
+!!! info "Prueba la generación instantánea"
+
+    HuggingFace es una popular plataforma que almacena muchos modelos de inteligencia artificial con diferente propósito. 
+
+    Dispone de un espacio, llamado **spaces** donde es posible publicar demostraciones de los modelos.
+
+    Utiliza [el siguiente enlace](https://huggingface.co/spaces/diffusers/unofficial-SDXL-Turbo-i2i-t2i){:target=_blank} para probar la creacion de imágenes según vas escribiendo el texto.
+
+
+## Imagenes para la docencia
+
+El uso de las imágenes puede clasificarse de manera lineal; en un extremo está la precisión y los detalles exactos mientras que en el otro extremo se sitúa la creatividad. A lo largo de esta línea podemos situar también la utilidad de las imágenes en diferentes contenidos. 
+
+Por ejemplo, si trabajamos contenidos de geografía los mapas tienen que ser preciso y ajustados a la realidad. Mientras que en plástica, las imágenes son más creativas.
+
+La IA generativa de imágenes, no suele mostrar precisión en el resultado, de manera que es frecuente encontrar **alucinaciones** en el resultado, es decir elementos inconexos con el resto de la imagen, aunque puedan estar contextualizados con un sentido. Por ejemplo animales que les falta o sobra alguna pata, o rasgos de la cara mal definidos o más dedos de la cuenta en una mano.
+
+Sin embargo, esto no es un handicap para la Inteligencia Artificial generativa, ya que podemos solicitar la creación de imágenes de inspiración, que permiten ilustrar una actividad o ser el punto de partida. Por ejemplo, para las asignatura de historia del arte, se puede preparar una actividad de reconocimiento de estilos arquitectónicos generando imágenes de diferentes estilos. Aunque estas imágenes son sintéticas, mostrarán la esencia del estilo y son válidas para el propósito.
+
+## Generando vídeos 
 
 Los vídeos no son más que secuencias de imágenes. Para una IA generativa que genera imágenes, no es ningún inconveniente generar una secuencia de imágenes relacionadas con la anterior, formando un vídeo.
 
 Cada imágen se basa en la anterior generada, aplicando cierta modificación, en base a las instrucciones de creación que se hayan establecido.
+
+
+## Referencias
+
+
 
 
 
