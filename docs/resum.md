@@ -6,9 +6,19 @@ authors:
     - Jose Robledano
 date: 2024-03-18
 ---
-# Resumenes y presentaciones
+# Resúmenes y presentaciones
 
+## **Resúmenes**
 
+Las herramientas de IA para la generación de textos, también nos dan la posibilidad de resumir textos largos concretando los puntos claves y facilitando la comprensión del texto de forma más rápida.
+
+Para la generación de resúmenes necesitamos:
+
+- Texto para resumir que puede ser un libro, capítulo, ensayo, noticia, etc.
+- Herramienta IA como ChatGPT, Gemini, etc.
+
+!!! info "Importante"
+    No debemos quedarnos directamente con el resultado sin antes leerlo y verificar que el resumen obtenido se ajusta a lo que nosotros queremos ofrecer al alumno.
 
 
 ## **Presentaciones**
