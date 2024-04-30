@@ -64,3 +64,29 @@ Después de instalar la herramienta accedes a las presentaciones de Google:
 
 
 <center>![](imagenes/magic3.png){width=80%, height=80%}</center>
+
+
+## **Crear documento en formato PDF**
+
+Las herramientas conversacionales como ChatGPT tienen la posibilidad de crear documentos en **LaTeX** que podemos transformar en PDF.  LaTeX es un archivo de texto plano que describe la estructura y el contenido de un documento, incluyendo elementos como el tipo de documento (artículo, libro, carta, etc.), el formato de página, el estilo de fuente, los encabezados y pies de página, las secciones y subsecciones, las citas bibliográficas, etc. Una vez que se ha escrito el código LaTeX, se compila para producir un documento PDF final con el formato deseado.
+
+**Overleaf** es una plataforma en línea que permite a los usuarios escribir, editar, compilar y compartir documentos LaTex. Una característica importante es que permite la colaboración en tiempo real para que varios usuarios puedan trabajar juntos en el mismo documento LaTeX simultaneamente.
+
+
+[Enlace a Overleaf](https://www.overleaf.com/){:target="_blank"}
+
+Pasos:
+
+- Registrarse en Overleaf.
+- Crear un nuevo proyecto:
+
+<center>![](imagenes/over1.PNG){width=80%, height=80%}</center>
+
+- Proyecto en blanco y ponerle nombre al proyecto.
+- Con la herramienta ChatGPT crea un documento latex sobre el tema que quieras y copia el código.
+
+<center>![](imagenes/over2.PNG){width=80%, height=80%}</center>
+
+- Borra lo que aparece en el panel de la izquierda y pega el texto anterior. Pulsa el botón Compile (Recompile). Puedes poner tu nombre o modificar lo que quieras en el panel de la izquierda. Recuerda que después de modificar debes recompilar. Una vez el documento sea de tu agrado lo puedes descargar.
+
+<center>![](imagenes/over3.PNG)</center>

@@ -125,6 +125,8 @@ Surgen cuestiones fundamentales sobre el uso responsable de esta tecnología y c
 
 Este tema nos invita a considerar no solo el potencial transformador de la IA generativa en la educación, sino también las responsabilidades éticas que conlleva su uso. Al abordar estas cuestiones de manera proactiva, podemos trabajar hacia un futuro en el que la IA generativa se utilice de manera ética y responsable para promover un aprendizaje inclusivo, equitativo y significativo para todos.
 
+
+
 ## **Herramientas**
 
 ### **ChatGPT**
