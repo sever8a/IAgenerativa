@@ -17,8 +17,12 @@ Para la generación de resúmenes necesitamos:
 - Texto para resumir que puede ser un libro, capítulo, ensayo, noticia, etc.
 - Herramienta IA como ChatGPT, Gemini, etc.
 
+
+<center>![imagen](imagenes/resum1.PNG){width=80%, height=80%}</center>
+
 !!! info "Importante"
     No debemos quedarnos directamente con el resultado sin antes leerlo y verificar que el resumen obtenido se ajusta a lo que nosotros queremos ofrecer al alumno.
+
 
 
 ## **Presentaciones**
