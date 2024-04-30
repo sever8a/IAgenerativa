@@ -50,6 +50,12 @@ Existen diferentes herramientas para la creación de presentaciones con IA. Esta
 <center>![](imagenes/gamma.PNG){width=80%, height=80%}</center>
 
 
+- **Presentations.ai**: Plataforma que utiliza IA para la creación de diapositivas, sugiere diseños, estilos de texto, gráficos y otros elementos que mejoran la presentación.
+
+<center>[Enlace a Presentations.ai](https://www.presentations.ai/){:target="_blank"}</center>
+
+<center>![](imagenes/presen.png){width=80%, height=80%}</center>
+
 - **MagicSlides**: Crea presentaciones de Google a partir de un tema, texto, vídeo o dirección Web.
 
 <center>[Enlace a MagicSlides](https://workspace.google.com/marketplace/app/magicslides_app_gpt_for_slides/371894645570){:target="_blank"}</center>
@@ -89,4 +95,4 @@ Pasos:
 
 - Borra lo que aparece en el panel de la izquierda y pega el texto anterior. Pulsa el botón Compile (Recompile). Puedes poner tu nombre o modificar lo que quieras en el panel de la izquierda. Recuerda que después de modificar debes recompilar. Una vez el documento sea de tu agrado lo puedes descargar.
 
-<center>![](imagenes/over3.PNG)</center>
+<center>![](imagenes/over3.png)</center>
