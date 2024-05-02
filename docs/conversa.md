@@ -34,6 +34,9 @@ Utilizando técnicas de IA generativa, es posible personalizar el material de es
     La IA generativa ofrece numerosas oportunidades para crear contenidos educativos dinámicos, interactivos y personalizados que pueden mejorar significativamente la experiencia de aprendizaje de los estudiantes. Al integrar esta tecnología de manera efectiva en el aula, los educadores pueden potenciar el proceso de enseñanza y ayudar a los estudiantes a alcanzar su máximo potencial.
 
 
+<center>![](imagenes/ia2.jpg){width=50%, height=50%}</center>
+
+
 ## **Recomendaciones para el buen uso de la IA**
 
 - Realizar preguntas claras y concisas.
@@ -168,4 +171,5 @@ Una posible forma de generar un buen prompt puede ser la siguiente:
 !!!alert "Aviso sobre resultados"
 
     Recuerda que todas las herramientas avisan en sus condiciones de uso que no son responsables del uso de las respuestas, siendo al usuario quién debe considerar la validez de los contenidos obtenidos.
+
 

@@ -21,6 +21,8 @@ El test de Turing consiste en hacer que una persona hable a través de una panta
 
 Ya han pasado más de 70 años desde que se enunciara el test de Turing y hay máquinas que han conseguido superarla.
 
+<center>![](imagenes/ia1.jpg){width=50%, height=50%}</center>
+
 
 ## **IA Generativa**
 
@@ -73,6 +75,8 @@ La historia y evolución de la inteligencia artificial generativa es fascinante 
 !!! info "Innovación y avances constantes"
     La historia de la inteligencia artificial generativa es una historia de innovación constante y avances tecnológicos que han ampliado significativamente nuestras capacidades para generar contenido creativo y original en una variedad de dominios.
 
+
+<center>![](imagenes/ia3.jpg){width=50%, height=50%}</center>
 ## **Fundamentos técnicos de la IA Generativa**
 
 Las Redes Generativas Adversarias (GANs) son un tipo de arquitectura de red neuronal que consiste en dos redes neuronales enfrentadas entre sí: **el generador** y **el discriminador**. Aquí está un desglose más detallado:

@@ -27,7 +27,7 @@ Para la generación de resúmenes necesitamos:
 
 ## **Presentaciones**
 
-Existen diferentes herramientas para la creación de presentaciones con IA. Estas herramientas facilitan la generación rápida de materiales educativos sin requerir esfuerzo en el diseño y formato. Las más utilizadas son:
+Existen diferentes herramientas para la creación de presentaciones con IA. Estas herramientas facilitan la generación rápida de materiales educativos sin requerir esfuerzo en el diseño y formato. La IA asume gran parte del trabajo ya que ofrecen diseños personalizables y profesionales sin tener grandes conocimientos de diseño gráfico.  Las más utilizadas son:
 
 - **Canva**: Incluye herramientas de escritura de IA en su versión gratuita. En la versión de pago Canva Pro, proporciona un diseñador de presentaciones basado en IA entre otras utilidades.
 
