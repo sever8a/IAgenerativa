@@ -77,6 +77,8 @@ La historia y evolución de la inteligencia artificial generativa es fascinante 
 
 
 <center>![](imagenes/ia3.jpg){width=50%, height=50%}</center>
+
+
 ## **Fundamentos técnicos de la IA Generativa**
 
 Las Redes Generativas Adversarias (GANs) son un tipo de arquitectura de red neuronal que consiste en dos redes neuronales enfrentadas entre sí: **el generador** y **el discriminador**. Aquí está un desglose más detallado:
