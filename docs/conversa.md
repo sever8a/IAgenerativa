@@ -118,7 +118,7 @@ Algunas limitaciones:
 
 ## **El Prompt de la IA**
 
-El **prompt** es una instrucción, una pregunta o un texto que se utiliza para interactuar con un sistema de IA. Es el elemento esencial para que la IA empiece a funcionar.
+El **prompt** es una instrucción, una pregunta o un texto que se utiliza para interactuar con un sistema de IA. Es el elemento esencial para que la IA empiece a funcionar. El prompt que nosotros introducimos va a influir en el tipo de respuesta que genera el modelo. Por lo tanto, es muy importante la elección del prompt ya que afecta directamente al tipo y calidad de la respuesta generada.
 
 Según el tipo de prompt, vamos a tener un resultado más o menos optimizado.
 

@@ -24,6 +24,15 @@ Para la generación de resúmenes necesitamos:
     No debemos quedarnos directamente con el resultado sin antes leerlo y verificar que el resumen obtenido se ajusta a lo que nosotros queremos ofrecer al alumno.
 
 
+### **Herramientas para la generación de resúmenes**
+
+
+<center>[Summarygenerator](https://summarygenerator.io/){:target="_blank"}</center>
+
+Es un generador de resúmenes que utiliza tecnología avanzada de IA para desglosar un contenido extenso en resúmenes más rápidos de leer y entender.
+
+<center>![imagen](imagenes/resum2.PNG){width=80%, height=80%}</center>
+
 
 ## **Presentaciones**
 
