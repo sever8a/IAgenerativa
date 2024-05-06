@@ -27,7 +27,8 @@ Para la generación de resúmenes necesitamos:
 ### **Herramientas para la generación de resúmenes**
 
 
-<center>[Summarygenerator](https://summarygenerator.io/){:target="_blank"}</center>
+
+[Summarygenerator.io](https://summarygenerator.io/){:target="_blank"}
 
 Es un generador de resúmenes que utiliza tecnología avanzada de IA para desglosar un contenido extenso en resúmenes más rápidos de leer y entender.
 
