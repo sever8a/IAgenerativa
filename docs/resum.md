@@ -35,6 +35,12 @@ Es un generador de resúmenes que utiliza tecnología avanzada de IA para desglo
 <center>![imagen](imagenes/resum2.PNG){width=80%, height=80%}</center>
 
 
+[ahref](https://ahrefs.com/es/writing-tools/summarizer){:target="_blank"}
+
+Es una herramienta gratuita para resumir y simplificar el contenido extenso para poder facilitar la lectura.
+
+<center>![imagen](imagenes/resum3.PNG){width=80%, height=80%}</center>
+
 ## **Presentaciones**
 
 Existen diferentes herramientas para la creación de presentaciones con IA. Estas herramientas facilitan la generación rápida de materiales educativos sin requerir esfuerzo en el diseño y formato. La IA asume gran parte del trabajo ya que ofrecen diseños personalizables y profesionales sin tener grandes conocimientos de diseño gráfico.  Las más utilizadas son:
