@@ -6,8 +6,8 @@ use_directory_urls: false
 
 nav:
   - "1. Introducción": "index.md"
-  - "2. Conversacionales": "conversa.md"  
-  - "3. Resúmenes y presentaciones": "resum.md"
+  #- "2. Conversacionales": "conversa.md"  
+  #- "3. Resúmenes y presentaciones": "resum.md"
   # - "4. Presentaciones": "presenta.md"
   # - "4. ":
   #   - "4.1. ": "p.md"
@@ -15,8 +15,8 @@ nav:
   #   - "4.3. ": "p.md"
   #   - "4.4. ": "p.md"
   #   - "4.5. ": "p.md"
-  - "4. Imágenes y vídeos ": "text2image.md"
-  - "5. Autoaprendizaje y plagio": "auto.md"
+  #- "4. Imágenes y vídeos ": "text2image.md"
+  #- "5. Autoaprendizaje y plagio": "auto.md"
   # - "7. Plagio": "plagio.md"
 
 theme:
