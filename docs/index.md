@@ -117,6 +117,10 @@ La inteligencia artificial generativa (IA generativa) está revolucionando la fo
 
 Estas ideas nos invitan a imaginar un futuro en el que la IA generativa transforme radicalmente la forma en que enseñamos y aprendemos, proporcionando experiencias educativas más personalizadas, interactivas y significativas para todos los estudiantes. Al explorar las aplicaciones prácticas de esta tecnología en el ámbito educativo, podemos abrir nuevas fronteras para la innovación y el avance en la enseñanza y el aprendizaje.
 
+
+<center>![](imagenes/miro.PNG)</center>
+
+
 ## **IA Generativa para docentes**
 
 La inteligencia artificial generativa (IA generativa) ofrece enormes posibilidades en el ámbito educativo, desde la personalización del aprendizaje hasta la creación de recursos educativos innovadores. Sin embargo, junto con estas oportunidades vienen importantes consideraciones éticas y responsabilidades que deben abordarse de manera integral.

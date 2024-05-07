@@ -41,6 +41,13 @@ Es una herramienta gratuita para resumir y simplificar el contenido extenso para
 
 <center>![imagen](imagenes/resum3.PNG){width=80%, height=80%}</center>
 
+
+[PopAi](https://www.popai.pro/){:target="_blank"}
+
+PopAi es una herramienta que proporciona respuestas al instante ya que integra modotes de búsqueda, lectura de PDF y generación de Powerpoint.
+
+<center>![imagen](imagenes/resum4.PNG){width=80%, height=80%}</center>
+
 ## **Presentaciones**
 
 Existen diferentes herramientas para la creación de presentaciones con IA. Estas herramientas facilitan la generación rápida de materiales educativos sin requerir esfuerzo en el diseño y formato. La IA asume gran parte del trabajo ya que ofrecen diseños personalizables y profesionales sin tener grandes conocimientos de diseño gráfico.  Las más utilizadas son:
