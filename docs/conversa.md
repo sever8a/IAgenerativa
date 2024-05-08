@@ -173,3 +173,21 @@ Una posible forma de generar un buen prompt puede ser la siguiente:
     Recuerda que todas las herramientas avisan en sus condiciones de uso que no son responsables del uso de las respuestas, siendo al usuario quién debe considerar la validez de los contenidos obtenidos.
 
 
+## **Ejemplos de prompts** 
+
+
+**Ejemplo 1:** 
+
+<center>![](imagenes/p1.png)</center>
+
+**Ejemplo 2:**
+
+<center>![](imagenes/p2.png)</center>
+
+**Ejemplo 3:**
+
+<center>![](imagenes/p3.png)</center>
+
+!!!alert "Recuerda"
+
+    Es mejor reiniciar una conversación nueva si quieres cambiar el tema, el rol, el contexto o el usuario final.
