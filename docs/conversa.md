@@ -8,6 +8,18 @@ date: 2024-03-18
 ---
 # IA conversacional
 
+La **IA conversacional** es una parte de la IA que permite a las máquinas participar en diálogos interactivos como si fuesen humanos. Esta tecnología comprende e interpreta el lenguaje humano para simular conversaciones naturales. 
+
+Características de la IA conversacional:
+
+- Entiende los patrones de comunicación humana y responde con un diálogo contextual.
+
+- Incorpora algoritmos de IA y tecnología de procesamiento del lenguaje natural (PLN) para crear transiciones de diálogo fluidas.
+
+- Genera conversaciones haciendo que sean difíciles de distinguir de las interacciones humanas.
+
+- Mantiene el contexto durante toda la conversación.
+
 Esta tecnología ofrece una amplia gama de posibilidades para crear contenidos educativos innovadores y personalizados. Aquí se presentan algunas formas en que se puede utilizar la IA generativa para este fin:
 
 ## **Generación de Problemas y Ejercicios**
