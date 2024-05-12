@@ -6,7 +6,7 @@ use_directory_urls: false
 
 nav:
   - "1. Introducción": "index.md"
-  #- "2. Conversacionales": "conversa.md"  
+  - "2. Conversacionales": "conversa.md"  
   #- "3. Resúmenes y presentaciones": "resum.md"
   # - "4. Presentaciones": "presenta.md"
   # - "4. ":
