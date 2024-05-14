@@ -6,11 +6,17 @@ authors:
     - Jose Robledano
 date: 2024-03-18
 ---
-# Generación de elementos gráficos
+# **Generación de elementos gráficos**
 
 La IA generativa permite crear elementos gráficos nuevos, que pueden ser utilizados libremente para la creación de materiales e informes.
 
-## Generando imágenes
+Algunas de las limitaciones que presenta la IA generativa de imágenes son las siguientes:
+
+- La mayoría de herramientas no permiten incluir texto en las imágenes y si lo hace no lo hace de forma correcta.
+- La generación de algunos objetos no es muy precisa sobre todo con detalles científicos y técnicos.
+- Muchas herramientas funcionan con un sistema de créditos o tokens que limitan el número de imágenes que se pueden crear.
+  
+## **Generando imágenes**
 
 Las imágenes digitales se están formadas por **pixels**. Un pixel es la combinación de tres colores: rojo verde y azul (RGB). Se representa como un vector de valores numéricos.
 
@@ -31,7 +37,7 @@ Se han desarrollado diferentes modelos, para generar imágenes a partir de difer
     Utiliza [el siguiente enlace](https://huggingface.co/spaces/diffusers/unofficial-SDXL-Turbo-i2i-t2i){:target=_blank} para probar la creacion de imágenes según vas escribiendo el texto.
 
 
-## Imagenes para la docencia
+## **Imagenes para la docencia**
 
 El uso de las imágenes puede clasificarse de manera lineal; en un extremo está la precisión y los detalles exactos mientras que en el otro extremo se sitúa la creatividad. A lo largo de esta línea podemos situar también la utilidad de las imágenes en diferentes contenidos. 
 
@@ -41,12 +47,67 @@ La IA generativa de imágenes, no suele mostrar precisión en el resultado, de m
 
 Sin embargo, esto no es un handicap para la Inteligencia Artificial generativa, ya que podemos solicitar la creación de imágenes de inspiración, que permiten ilustrar una actividad o ser el punto de partida. Por ejemplo, para las asignatura de historia del arte, se puede preparar una actividad de reconocimiento de estilos arquitectónicos generando imágenes de diferentes estilos. Aunque estas imágenes son sintéticas, mostrarán la esencia del estilo y son válidas para el propósito.
 
+### **Herramientas para generar imágenes**
+
+Existen muchos recursos que permiten la generación de imágenes aunque la mayoría tienen ciertas limitaciones de créditos o tokens. Algunas de ellas son las siguientes:
+
+
+- **Generador de imágenes de Bing**: se puede acceder directamente desde el chat de Bing pidiéndole que nos haga una imágen. Utiliza DALLE 3 de OpenAI.
+  
+[Bing](https://www.bing.com/images/create?toWww=1&redig=37ADF736F405418EB0DED7E061E32E5B){:target="_blank"}
+
+
+<center>![imagen](imagenes/ima4.PNG)</center>
+
+
+
+
+
+- **Stable Diffusion**: es de código abierto y genera una imagen a partir de un mensaje de texto. Puede resultar lenta si hay muchos usuarios a la vez generando imágenes. Te genera una serie de crédito de forma gratuita.
+
+[Stablediffusion](https://stablediffusionweb.com/){:target="_blank"}
+
+
+<center>![imagen](imagenes/ima1.PNG)</center>
+
+
+
+
+
+- **Catbird**: plataforma sencilla y fácil de usar.
+
+[Catbird](https://www.catbird.ai/){:target="_blank"}
+
+
+<center>![imagen](imagenes/ima2.PNG)</center>
+
+
+
+
+- **Deep Dream Generator**: generador que utiliza la técnica DeepDream desarrollada por Google. Permite cargar tus propias imágenes y aplicar efectos psicodélicos y surrealistas.
+
+
+[deepdreamgenerator](https://deepdreamgenerator.com/){:target="_blank"}
+
+
+<center>![imagen](imagenes/ima3.PNG)</center>
+
+
+
 ## Generando vídeos 
 
 Los vídeos no son más que secuencias de imágenes. Para una IA generativa que genera imágenes, no es ningún inconveniente generar una secuencia de imágenes relacionadas con la anterior, formando un vídeo.
 
 Cada imágen se basa en la anterior generada, aplicando cierta modificación, en base a las instrucciones de creación que se hayan establecido.
 
+### **Herramientas para generar vídeos**
+
+- **RunWay ML**: plataforma que ofrece gran variedad de modelos de IA para generar imágenes, vídeos, textos, etc. 
+
+[RunWay](https://runwayml.com/){:target="_blank"}
+
+
+<center>![imagen](imagenes/ima6.PNG)</center>
 
 ## Referencias
 
