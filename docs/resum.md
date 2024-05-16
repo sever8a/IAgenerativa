@@ -48,6 +48,18 @@ PopAi es una herramienta que proporciona respuestas al instante ya que integra m
 
 <center>![imagen](imagenes/resum4.PNG){width=80%, height=80%}</center>
 
+
+[ChatPDF](https://www.chatpdf.com/){:target="_blank"}
+
+Más que una herramienta para resumir, es una evolución personalizada de chat generativo. Se envia un fichero, y se puede preguntar sobre el contenido del documento. Podemos solicitar desde un extracto, hasta realizar preguntas concretas sobre el contenido. Las respuestas que se obtienen siempre hacen referencia al **contexto** del documento enviado.
+
+Para utilizarlo, *NO es necesario estar registrado*. Sólo en el caso de querer tener acceso al historial, sera necesario acceder con un usuario.
+
+
+<center>![chatpdf](imagenes/resum5.PNG){width=80%, height=80%}</center>
+
+
+
 ## **Presentaciones**
 
 Existen diferentes herramientas para la creación de presentaciones con IA. Estas herramientas facilitan la generación rápida de materiales educativos sin requerir esfuerzo en el diseño y formato. La IA asume gran parte del trabajo ya que ofrecen diseños personalizables y profesionales sin tener grandes conocimientos de diseño gráfico.  Las más utilizadas son:
