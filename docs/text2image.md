@@ -102,7 +102,7 @@ Existen muchos recursos que permiten la generación de imágenes aunque la mayor
 
 
 
-## Generando vídeos 
+## **Generando vídeos** 
 
 Los vídeos no son más que secuencias de imágenes. Para una IA generativa que genera imágenes, no es ningún inconveniente generar una secuencia de imágenes relacionadas con la anterior, formando un vídeo.
 
@@ -118,14 +118,14 @@ Cada imágen se basa en la anterior generada, aplicando cierta modificación, en
 <center>![imagen](imagenes/ima6.PNG)</center>
 
 
--**InVideoAI**: Crea vídeos a partir de su descripción en texto. Tiene una versión gratuita (aunque te tienes que registrar) que permite un tiempo limitado de uso y almacenamiento y 4 exportaciones por semana con el logo de la herramienta.
+- **InVideoAI**: Crea vídeos a partir de su descripción en texto. Tiene una versión gratuita (aunque te tienes que registrar) que permite un tiempo limitado de uso y almacenamiento y 4 exportaciones por semana con el logo de la herramienta.
 
 [InVideoAI](https://ai.invideo.io/workspace/eaf00b9c-4aa5-4a22-8f64-c37501671fb1/v20-copilot){:target="_blank"}
 
 
 <center>![imagen](imagenes/ima7.PNG)</center>
 
--**Synthesia STUDIO**: permite realizar vídeos a partir de textos que son narrados por un avatar. Es una herramienta gratuita y tiene una serie de limitaciones.
+- **Synthesia STUDIO**: permite realizar vídeos a partir de textos que son narrados por un avatar. Es una herramienta gratuita y tiene una serie de limitaciones.
 
 [Synthesia STUDIO](https://app.synthesia.io/#/welcome?redirect=%2F){:target="_blank"}
 
