@@ -71,7 +71,13 @@ Existen muchos recursos que permiten la generación de imágenes aunque la mayor
 <center>![imagen](imagenes/ima1.PNG)</center>
 
 
+- **Hotpot**: te ayuda a crear imágenes, gráficos, etc. permitiendo visualizar ideas con el generador de imágenes.
 
+
+[Hotpot](https://hotpot.ai/){:target="_blank"}
+
+
+<center>![imagen](imagenes/ima9.PNG)</center>
 
 
 - **Catbird**: plataforma sencilla y fácil de usar.
@@ -136,6 +142,8 @@ Cada imágen se basa en la anterior generada, aplicando cierta modificación, en
 ## Referencias
 
 - **CIVITAI**. Interesante repositorio de prompts para generar imágenes y vídeos. [https://civitai.com/](https://civitai.com/){target="_blank"} Pulsando en el icono de la parte inferior derecha de cada *imagen muestra* libre o pública, se muestra la ficha con el prompt, positivo y negativo utilizado, el módelo y algunos datos más.
+
+
 
 
 
