@@ -31,25 +31,37 @@ Este es un ejemplo de registro del proceso de autoaprendizaje realizado por un e
 ---
 
 **Objetivos de aprendizaje**:
+
 1. Comprender la anatomía y función del sistema digestivo.
+   
 2. Identificar los órganos principales y su papel en el proceso digestivo.
+   
 3. Aprender sobre los diferentes pasos del proceso digestivo y cómo se descompone y absorbe los alimentos.
+   
 
 **Interacción con ChatGPT (registro de acciones realizadas)**:
+
 Durante un período de una semana, interactué con ChatGPT para obtener explicaciones adicionales y respuestas a mis preguntas sobre el sistema digestivo. Hice preguntas sobre los órganos que componen el sistema digestivo, el proceso de digestión, la absorción de nutrientes y cualquier otro concepto relacionado con el tema.
 
 **Registro de interacciones**:
+
 - Pregunté a ChatGPT sobre la función específica de cada uno de los órganos del sistema digestivo, como el estómago, el hígado y el intestino delgado.
+  
 - Solicité ejemplos prácticos sobre cómo se descompone y absorbe un alimento específico durante el proceso digestivo.
+  
 - Pedí explicaciones adicionales sobre términos y conceptos que no entendía completamente, como la función de las enzimas digestivas y el papel de la microbiota intestinal.
+  
 
 **Evaluación de la comprensión**:
+
 Al final de la semana, realicé una prueba sobre el sistema digestivo para evaluar mi comprensión del tema. La prueba incluyó preguntas sobre la anatomía del sistema digestivo, el proceso de digestión y absorción de nutrientes, y el papel de los diferentes órganos en el proceso digestivo. Obtuvé una puntuación alta en la prueba, lo que indica que había comprendido los conceptos clave del sistema digestivo.
 
 **Reflexión sobre el aprendizaje**:
+
 ChatGPT fue una herramienta valiosa para mi autoaprendizaje del sistema digestivo. Me proporcionó explicaciones claras y concisas sobre los conceptos, respondió a mis preguntas de manera detallada y me ayudó a comprender mejor los procesos complejos involucrados en la digestión y absorción de alimentos.
 
 **Ajuste de estrategias de aprendizaje**:
+
 Basándome en mi experiencia de aprendizaje con ChatGPT, seguiré utilizando esta herramienta como recurso complementario para futuros temas de estudio. También continuaré explorando otros recursos y enfoques de aprendizaje para seguir ampliando mis conocimientos sobre el sistema digestivo y otros temas relacionados con la biología humana.
 
 ---
@@ -57,6 +69,34 @@ Basándome en mi experiencia de aprendizaje con ChatGPT, seguiré utilizando est
 Este es un ejemplo de cómo podrías estructurar y documentar tu experiencia de autoaprendizaje utilizando una inteligencia artificial generativa como ChatGPT para estudiar el sistema digestivo. 
 
 ¡Recuerda que el profesorado también necesita formarse! Ahora es tu turno.
+
+
+## Chatbot
+
+Un **chatbot** es un programa informático que simula la conversación humana con un usuario final. Los chatbots actuales utilizan técnicas de IA conversacional como el Procesamiento del Lenguaje Natural (PLN) para comprender las preguntas y automatizar las respuestas.
+
+Los chatbots se utilizan en muchas aplicaciones de mensajería y chat, principalmente para dar soporte y atención al cliente.
+
+<center>![chatbot](imagenes/bot1.PNG)</center>
+
+
+<center>![chatbot](imagenes/bot2.PNG)</center>
+
+Accedemos a gratuito para profesores:
+
+<center>![chatbot](imagenes/bot3.PNG)</center>
+
+
+<center>![chatbot](imagenes/bot1.PNG)</center>
+<center>![chatbot](imagenes/bot1.PNG)</center>
+<center>![chatbot](imagenes/bot1.PNG)</center>
+
+### Herramienta Mizou
+
+Mizou es una herramienta creada para docentes que te permite crear tu propio chatbot basado en tus instrucciones, recursos y rúbricas.
+
+[Mizou](https://mizou.com/){:target="_blank"}
+
 
 # Plágio y citación
 
