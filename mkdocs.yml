@@ -8,7 +8,7 @@ nav:
   - "1. Introducción": "index.md"
   - "2. Conversacionales": "conversa.md"  
   - "3. Resúmenes y presentaciones": "resum.md"
-  #- "4. Imágenes y vídeos ": "text2image.md"
+  - "4. Imágenes y vídeos ": "text2image.md"
   #- "5. Ética y responsabilidad en la IA generativa": "auto.md"
   # - "7. Plagio": "plagio.md"
 
