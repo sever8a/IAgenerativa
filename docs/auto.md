@@ -6,7 +6,7 @@ authors:
     - Jose Robledano
 date: 2024-03-18
 ---
-# Autoaprendizaje
+# **Autoaprendizaje**
 
 Organizar el autoaprendizaje utilizando una inteligencia artificial generativa puede ser una experiencia enriquecedora y efectiva. Ideas para lograrlo:
 
@@ -24,7 +24,7 @@ Organizar el autoaprendizaje utilizando una inteligencia artificial generativa p
 
 En resumen, organizar el autoaprendizaje utilizando una inteligencia artificial generativa implica establecer objetivos claros, utilizar una variedad de recursos de aprendizaje, interactuar regularmente con la inteligencia artificial generativa y evaluar tu progreso de manera continua.
 
-## Proceso autoaprendizaje. Ejemplo práctico.
+## **Proceso autoaprendizaje. Ejemplo práctico.**
 
 Este es un ejemplo de registro del proceso de autoaprendizaje realizado por un estudiante, para conocer el **sistema digestivo**, utilizando una inteligencia artificial generativa como ChatGPT:
 
@@ -71,11 +71,20 @@ Este es un ejemplo de cómo podrías estructurar y documentar tu experiencia de 
 ¡Recuerda que el profesorado también necesita formarse! Ahora es tu turno.
 
 
-## Chatbot
+## **Chatbot**
 
 Un **chatbot** es un programa informático que simula la conversación humana con un usuario final. Los chatbots actuales utilizan técnicas de IA conversacional como el Procesamiento del Lenguaje Natural (PLN) para comprender las preguntas y automatizar las respuestas.
 
 Los chatbots se utilizan en muchas aplicaciones de mensajería y chat, principalmente para dar soporte y atención al cliente.
+
+
+
+### **Herramienta Mizou**
+
+Mizou es una herramienta creada para docentes que te permite crear tu propio chatbot basado en tus instrucciones, recursos y rúbricas.
+
+[Mizou](https://mizou.com/){:target="_blank"}
+
 
 <center>![chatbot](imagenes/bot1.PNG)</center>
 
@@ -87,20 +96,9 @@ Accedemos a gratuito para profesores:
 <center>![chatbot](imagenes/bot3.PNG)</center>
 
 
-<center>![chatbot](imagenes/bot1.PNG)</center>
-<center>![chatbot](imagenes/bot1.PNG)</center>
-<center>![chatbot](imagenes/bot1.PNG)</center>
 
-### Herramienta Mizou
+# **Ética y responsabilidad en IA generativa**
 
-Mizou es una herramienta creada para docentes que te permite crear tu propio chatbot basado en tus instrucciones, recursos y rúbricas.
-
-[Mizou](https://mizou.com/){:target="_blank"}
-
-
-# Plágio y citación
-
-.......
 
 ## **Propiedad Intelectual en IA**
 
@@ -108,19 +106,19 @@ La propiedad intelectual se refiere a los derechos legales que protegen las crea
 
 En el caso de ChatGPT, al ser entrenado con datos de terceros sin necesariamente contar con permisos explícitos de los creadores originales, se cuestiona si los resultados generados por la IA pueden ser protegidos por derechos de autor. Según la legislación actual en España, los resultados generados íntegramente por ChatGPT no serían protegibles bajo derechos de autor, ya que la propiedad intelectual de una obra corresponde al autor por el mero hecho de su creación, y en España solo las personas físicas pueden ser consideradas autores.
 
-Por otro lado, hay quienes sostienen que el ususario que crea el **prompt** debe ser considerado el autor y tener la propiedad intelectual.
+Por otro lado, hay quienes sostienen que el usuario que crea el **prompt** debe ser considerado el autor y tener la propiedad intelectual.
 
 La legislación actual no contempla el caso de obras creadas con IA por lo que existe un vacío legal y por ello se asume que el usuario que genera el prompt tiene algún derecho sobre lo que genera la IA.
 
 ## **Uso responsable de la IA en el aula**
 
-- Verificación de Información: Contrastar la información producida por la IA con fuentes confiables antes de utilizarla en el aula.
-- Análisis Crítico de Contenidos: la información generada se debe someter a un análisis crítico para evaluar su precisión y relevancia.
-- Diversificación de Fuentes: Se recomienda utilizar diferentes herramientas para el aprendizaje, sin depender únicamente de la IA.
-- Seguridad de Datos: Se debe ser cauteloso al compartir información personal con plataformas basadas en IA.
-- Evaluación Complementaria: No se debe depender exclusivamente de la IA para evaluar el rendimiento del alumnado. Se recomienda utilizar diversos métodos de evaluación que consideren aspectos como la creatividad y el pensamiento crítico.
-- Conciencia de Sesgo: Se debe ser consciente de que la IA puede tener sesgos inherentes y estar preparado para abordar cualquier desigualdad que pueda surgir.
-- Formación Continua: Es esencial mantenerse actualizado sobre las mejores prácticas y las limitaciones de la IA para poder guiar de manera efectiva al alumnado.
+- **Verificación de Información**: Contrastar la información producida por la IA con fuentes confiables antes de utilizarla en el aula.
+- **Análisis Crítico de Contenidos**: la información generada se debe someter a un análisis crítico para evaluar su precisión y relevancia.
+- **Diversificación de Fuentes**: Se recomienda utilizar diferentes herramientas para el aprendizaje, sin depender únicamente de la IA.
+- **Seguridad de Datos**: Se debe ser cauteloso al compartir información personal con plataformas basadas en IA.
+- **Evaluación Complementaria**: No se debe depender exclusivamente de la IA para evaluar el rendimiento del alumnado. Se recomienda utilizar diversos métodos de evaluación que consideren aspectos como la creatividad y el pensamiento crítico.
+- **Conciencia de Sesgo**: Se debe ser consciente de que la IA puede tener sesgos inherentes y estar preparado para abordar cualquier desigualdad que pueda surgir.
+- **Formación Continua**: Es esencial mantenerse actualizado sobre las mejores prácticas y las limitaciones de la IA para poder guiar de manera efectiva al alumnado.
 
 
 ## **Herramientas de detección de IA**
