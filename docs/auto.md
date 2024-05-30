@@ -64,8 +64,6 @@ ChatGPT fue una herramienta valiosa para mi autoaprendizaje del sistema digestiv
 
 Basándome en mi experiencia de aprendizaje con ChatGPT, seguiré utilizando esta herramienta como recurso complementario para futuros temas de estudio. También continuaré explorando otros recursos y enfoques de aprendizaje para seguir ampliando mis conocimientos sobre el sistema digestivo y otros temas relacionados con la biología humana.
 
----
-
 Este es un ejemplo de cómo podrías estructurar y documentar tu experiencia de autoaprendizaje utilizando una inteligencia artificial generativa como ChatGPT para estudiar el sistema digestivo. 
 
 ¡Recuerda que el profesorado también necesita formarse! Ahora es tu turno.
@@ -97,10 +95,10 @@ Accedemos a gratuito para profesores:
 
 
 
-# **Ética y responsabilidad en IA generativa**
+## **Ética y responsabilidad en IA generativa**
 
 
-## **Propiedad Intelectual en IA**
+### **Propiedad Intelectual en IA**
 
 La propiedad intelectual se refiere a los derechos legales que protegen las creaciones de la mente, como obras literarias, artísticas, invenciones, diseños, símbolos y nombres. En el contexto del uso de ChatGPT y otras IA generativas, la propiedad intelectual se ve desafiada debido a la forma en que estas tecnologías generan contenido utilizando una amplia gama de datos disponibles públicamente en Internet, sin necesariamente citar a los autores originales. Esto plantea preocupaciones sobre la violación de derechos de autor y la falta de reconocimiento a los creadores originales de los contenidos utilizados para entrenar estas IA.
 
@@ -110,7 +108,7 @@ Por otro lado, hay quienes sostienen que el usuario que crea el **prompt** debe 
 
 La legislación actual no contempla el caso de obras creadas con IA por lo que existe un vacío legal y por ello se asume que el usuario que genera el prompt tiene algún derecho sobre lo que genera la IA.
 
-## **Uso responsable de la IA en el aula**
+### **Uso responsable de la IA en el aula**
 
 - **Verificación de Información**: Contrastar la información producida por la IA con fuentes confiables antes de utilizarla en el aula.
 - **Análisis Crítico de Contenidos**: la información generada se debe someter a un análisis crítico para evaluar su precisión y relevancia.
@@ -121,7 +119,7 @@ La legislación actual no contempla el caso de obras creadas con IA por lo que e
 - **Formación Continua**: Es esencial mantenerse actualizado sobre las mejores prácticas y las limitaciones de la IA para poder guiar de manera efectiva al alumnado.
 
 
-## **Herramientas de detección de IA**
+### **Herramientas de detección de IA**
 
 Estas herramientas se especializan en detectar contenido generado IA y pueden ser útiles para detectar plagio en textos generados por modelos de lenguaje como ChatGPT. Algunas herramientas importantes son:
 
