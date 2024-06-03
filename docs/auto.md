@@ -68,6 +68,27 @@ Este es un ejemplo de cómo podrías estructurar y documentar tu experiencia de 
 
 ¡Recuerda que el profesorado también necesita formarse! Ahora es tu turno.
 
+## **Autoaprendizaje con auto evaluación**
+
+Una buena estratégia para conseguir un *feedback* adecuado para cierto tipo de tareas, es diseñar una rúbrica de evaluación *(o establecer unos criterios de evaluación ponderados)* para una tarea concreta.
+
+Esta **rúbrica** o **criterios de calificación** se los pasamos a una herramienta de IA generativa como ChatGPT.
+
+A continuación, realizamos la tarea y solicitamos a la herramienta de IA generativa que realice la evaluación de acuerdo a la rúbrica o criterios de evaluación que hemos pasado previamente.
+
+Obtendremos una respuesta calificando la tarea según la rúbrica o los criterios, con cierta justificación de la calificación obtenida.
+
+Si la solución a la tarea propuesta no ha logrado la máxima puntuación, se puede solicitar que *en base a la actividad realizada proporcione una solución para lograr la máxima calificación posible*. Se obtendrá una revisión de la tarea proporcionada, pero esta vez cumpliendo todos los items de la rúbrica o criterios de evaluación.
+
+Esta nueva solución se puede utilizar para realizar una revisión sobre nuestra propuesta inicial, y considerar las posibles mejoras.
+
+!!! info "La IA generativa sigue ayudando"
+
+    Recuerda que podemos solicitar a la propia IA generativa que genere **la rúbrica de calificación**. Posteriormente solo será necesario revisar si los items se ajustan a los criterios de evaluación que se pretende evaluar.
+
+La función del docente se situa en un nivel de abstracción mayor, ya que debe valorar si el diseño de la tarea permite una evaluación adecuada, a partir de las evidencias que se pueden aportar al chatbot.
+
+Por ejemplo, evaluar el *trabajo en equipo* sobre un texto resultante, no es posible. Pero se puede facilitar el diario de trabajo que ha ido creando el equipo, para calificar este aspecto.
 
 ## **Chatbot**
 
@@ -75,7 +96,13 @@ Un **chatbot** es un programa informático que simula la conversación humana co
 
 Los chatbots se utilizan en muchas aplicaciones de mensajería y chat, principalmente para dar soporte y atención al cliente.
 
+!!! alert "Chatbot personalizados"
 
+    Es posible crear chatbots con instrucciones personalizadas para que el bot centre sus respuestas en un contexto y actuación específica. 
+    
+    Por ejemplo, se puede dar instrucciones para que proporcione retro alimentación a las dudas sobre un enunciado, o convertirlo en un corrector automático, que proporcione retroalimentacion inmediata al alumnado.
+
+    ChatGPT dispone de la opción de crear **chatbots personalizados** en la versión de pago.
 
 ### **Herramienta Mizou**
 
@@ -92,6 +119,34 @@ Mizou es una herramienta creada para docentes que te permite crear tu propio cha
 Accedemos a gratuito para profesores:
 
 <center>![chatbot](imagenes/bot3.PNG)</center>
+
+### **Chatbots diversos con *poe.com***
+
+Poe es una herramienta que permite explorar parte del universo de los chatbots, de manera gratuita (o semigratuita). Permite encontrar chatbots, ya creados con funcionalidades que pueden ser útiles para nuestros propósitos.
+
+[Poe](https://poe.com/){:target="_blank"}
+
+Desde la plataforma de **poe** se puede acceder a casi todos las IA generativas. Hay que tener en cuenta que cada una de ellas puede tiene diferentes condiciones de uso. 
+
+<center>![Pantalla principal poe.com](imagenes/poe.png)</center>
+
+También es posible **crear nuestros propios chatbots**, utilizando la IA generativa que elijamos. Para crear un nuevo chat bot:
+
+- Hay que asignar un nombre reconocible y localizable.
+- Establecer el bot base.
+- Concretar las instrucciones para las respuestas del bot.
+- Definir una base de conocimiento con materiales propios.
+- El bot puede ser público o privado.
+
+<center>![Crear un bot](imagenes/poe2.png)</center>
+
+!!! alert "Experimenta"
+
+    Poe es una buena **opción para experimentar** la creación de bots personalizados, sin necesidad de realizar una suscripción.
+
+    También puedes consultar los que ya están disponibles, y conocer cuáles son sus especificaciones.
+
+    Recuerda que dispones de créditos que limitan las consultas diarias a cada tipo de bot.
 
 
 

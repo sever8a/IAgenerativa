@@ -172,15 +172,20 @@ Un prompt contextualizado:
 
 Una posible forma de generar un buen prompt puede ser la siguiente:
 
-**[Rol] [Tema o Tarea] [Contexto] [usuario final]**
+**[Tema o Tarea] [Contexto] [Ejemplo] [Persona] [Formato] [Tono]**
 
+!!! info "Un buen prompt"
 
-- **Rol**: Descripción de quien va a hacer la pregunta. Por ejemplo, un profesor que explica un concepto, un amigo dando consejos, un experto en un campo específico, etc. Este rol ayuda a definir el tono y el contexto de la respuesta que proporcionará el modelo.
-- **Tema o tarea**: Descripción de la tarea específica o el tema que se quiere abordar. Puede ser una pregunta sobre un tema específico, una petición de ayuda con una tarea, una explicación de un concepto, etc.
-- **Contexto**: Información del contexto o los detalles adicionales que ayudan a definir la situación. Por ejemplo, detalles sobre un problema que están intentando resolver.
-- **Usuario final**: Esta es la persona o grupo de personas a las que se destina la respuesta. Podría ser el propio usuario, el alumnado de un nivel y asignatura en particular, una audiencia más general, etc. Este componente ayuda a definir el nivel de detalle, el tono y el lenguaje que deben utilizarse en la respuesta.
+    No es necesario incluir todos los elementos en todo prompt. Se puede ir aportando matices conforme se van recibiendo respuestas. 
 
-!!!alert "Aviso sobre resultados"
+- **Tarea o tema**: Descripción específica de qué se quiere obtener. Verbos de acción, conviene que sea uno para evitar la multitarea. Puede ser, crear preguntas sobre un tema específico, obtener la solución a una tarea, una explicación ámplia de un concepto, evaluar una actividad, etc.
+- **Contexto**: Detalles adicionales que ayudan a definir la situación. Por ejemplo, detalles sobre un problema de un curso de 4 de primaria que están intentando resolver.
+- **Ejemplo**: Modelo que sirve de referente.
+- **Persona o rol**: Cómo tiene que actuar la inteligencia artificial. Por ejemplo, un profesor de física, un amigo dando consejos, un especialista en mecanica de buques, etc. 
+- **Fomato**: Organización de la respuesta. Por ejemplo, una hoja de cálculo, un esquema de diapositivas, el código de un programa, Moodle XML, etc.
+- **Tono**: El sentido que tiene que dar a la conversación. Ayuda a definir el nivel de detalle y el lenguaje que debe utilizar en la respuesta. Por ejemplo, amigable, cariñoso, estricto, agresivo, divertido, etc.
+
+!!! alert "Aviso sobre resultados"
 
     Recuerda que todas las herramientas avisan en sus condiciones de uso que no son responsables del uso de las respuestas, siendo al usuario quién debe considerar la validez de los contenidos obtenidos.
 
